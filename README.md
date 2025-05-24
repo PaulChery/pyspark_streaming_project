@@ -22,7 +22,7 @@ This project demonstrates how to simulate and process real-time data streams usi
 
 ## 📂 Files
 - `structured_streaming.py` - Main script
-- `sample_streaming_data.txt` - Sample 50 records for simulation
+- `sample_streaming_data.txt` - 50 records for simulation
 - `requirements.txt` - Python dependencies
 - `.gitignore` - Git ignore rules
 
@@ -38,14 +38,6 @@ This project demonstrates how to simulate and process real-time data streams usi
 |UK      |40.0              |
 +--------+------------------+
 ```
-
----
-
-## 💡 Why This Project
-This is a minimal, educational Spark streaming project, ideal for:
-- Learning Structured Streaming basics
-- Practicing joins and real-time aggregations
-- Exploring PySpark in a controlled environment without external systems
 
 ---
 
