@@ -41,13 +41,6 @@ This project demonstrates how to simulate and process real-time data streams usi
 
 ---
 
-## 💡 Why This Project
-This is a minimal, educational Spark streaming project, ideal for:
-- Learning Structured Streaming basics
-- Practicing joins and real-time aggregations
-- Exploring PySpark in a controlled environment without external systems
-
----
 
 ## ✨ How to Run
 1. Ensure Java and Spark are installed
